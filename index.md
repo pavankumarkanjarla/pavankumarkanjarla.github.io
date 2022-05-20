@@ -1,9 +1,8 @@
 ## Hello world! My name is
 Pavan Kumar Kanjarla
 
-You can use the [editor on GitHub](https://github.com/pavankumarkanjarla/pavankumarkanjarla.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a graduate student at University of Colorado with a goal driven and innovative mindset
+passionate towards advancements in the techsector with the Artificial Intelligence. 
 
 ### Markdown
 
