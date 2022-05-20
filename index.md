@@ -2,12 +2,12 @@
 Pavan Kumar Kanjarla
 
 I am a graduate student at University of Colorado with a goal driven and innovative mindset
-passionate towards finding a innovative solutions using the advanced technologies of Artificial Intelligence and Machine Learning.
+passionate towards finding an innovative solutions using the advanced technologies of Artificial Intelligence and Machine Learning.
 
 I believe in continuous learning will help to grow each day in the life.
 
 Do you want to work together? 
-Reach me out at Linkedin or e-mail
+Reach me out at Linkedin or [e-mail](pavankumark.be21@uceou.edu)
 
 
 ## My Journey
@@ -44,7 +44,23 @@ These are the domain where I am passionate to work
 - SQL
 - Tableau
         
-### Markdown
+### My Latest Projects
+
+- Stock Prediction Using the Time series forecasting and Deep Learning.
+- Adaptive Control of Renewable Microgrid using BELBIC.
+- Development and fine tuning of a hybrid controller based on Human Emotional Processing System BELBIC (Brain Emotional Learning Based Intelligent Controller).
+- Sentiment Analysis of the twitter comments for the election poll.
+- Face detection and similiarity prediction using the deep learning.
+- Conversational AI model for recommending the crop based on the available resources.  
+
+
+### Get in Touch with Me
+
+![Image](https://miro.medium.com/max/700/0*9f5uMrKMjLbzEf7q.png)
+
+                                        Github
+                                    My coding Arena
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
