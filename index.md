@@ -13,24 +13,24 @@ Reach me out at [Linkedin](https://www.linkedin.com/in/pavan-kumar-kanjarla-0222
 ## My Journey
 
 -             **Machine Learning Intern**
-         _Information & Technology Department_
-              _Government of Telangana_
-                Telangana, India
-             March 2020 - Sept 2020
+        -  _Information & Technology Department_
+        -       _Government of Telangana_
+        -          Telangana, India
+        -       March 2020 - Sept 2020
              
 -              **Research Assistant**
-         _Department of Electrical Engineering_
-            _Osmania Univeristy, India_
-               Jan 2021 - Dec 2021
+        -  _Department of Electrical Engineering_
+        -    _Osmania Univeristy, India_
+        -        Jan 2021 - Dec 2021
                
 -            **Bachelor of Engineering**
-          University College of Engineering
-             Osmania University, India
-                Aug 2017 - Aug 2021
+        - University College of Engineering
+        -    Osmania University, India
+        -        Aug 2017 - Aug 2021
                 
 -         **Masters in Business Analytics**
-              University of Colorado
-                Jan 2022 - Present 
+         -    University of Colorado
+         -      Jan 2022 - Present 
             
 ## Areas if Interest
 These are the domain where I am passionate to work
@@ -60,10 +60,12 @@ These are the domain where I am passionate to work
 
                                         Github
                                     My coding Arena
-[![Image](https://cdn.pixabay.com/photo/2020/07/07/11/26/linkedin-5380185_1280.png)](https://www.linkedin.com/in/pavan-kumar-kanjarla-022293152)
+                                    
+                                    
+[![Image](https://thinkdigitalfirst.com/wp-content/uploads/2017/05/linkedin-3157977_1920.jpg)](https://www.linkedin.com/in/pavan-kumar-kanjarla-022293152)
 
-                                        LinkedIn
-                                   My Professional Arena
+                                        - LinkedIn
+                                   - My Professional Arena
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
