@@ -2,8 +2,23 @@
 Pavan Kumar Kanjarla
 
 I am a graduate student at University of Colorado with a goal driven and innovative mindset
-passionate towards advancements in the techsector with the Artificial Intelligence. 
+passionate towards finding a innovative solutions using the advanced technologies of Artificial Intelligence and Machine Learning.
 
+I believe in continuous learning will help to grow each day in the life.
+
+Do you want to work together? 
+Reach me out at Linkedin or e-mail
+
+
+## My Journey
+
+              Machine Learning Intern
+         Information & Technology Department
+              Government of Telangana
+                Telangana, India
+             March 2020 - Sept 2020
+               
+        
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
