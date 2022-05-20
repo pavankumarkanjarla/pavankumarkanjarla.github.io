@@ -7,7 +7,7 @@ passionate towards finding an innovative solutions using the advanced technologi
 I believe in continuous learning will help to grow each day in the life.
 
 Do you want to work together? 
-Reach me out at Linkedin or [e-mail](pavankumark.be21@uceou.edu)
+Reach me out at [Linkedin](https://www.linkedin.com/in/pavan-kumar-kanjarla-022293152) or [e-mail](pavankumark.be21@uceou.edu)
 
 
 ## My Journey
