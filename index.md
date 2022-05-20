@@ -19,7 +19,7 @@ Reach me out at [Linkedin](https://www.linkedin.com/in/pavan-kumar-kanjarla-0222
              March 2020 - Sept 2020
              
 -              **Research Assistant**
-        _Department of Electrical Engineering_
+         _Department of Electrical Engineering_
             _Osmania Univeristy, India_
                Jan 2021 - Dec 2021
                
