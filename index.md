@@ -12,23 +12,23 @@ Reach me out at [Linkedin](https://www.linkedin.com/in/pavan-kumar-kanjarla-0222
 
 ## My Journey
 
-- ### Machine Learning Intern
-      -   _Information & Technology Department_
-      -        _Government of Telangana_
+-   **Machine Learning Intern**
+      -   Information & Technology Department
+      -        Government of Telangana
       -             Telangana, India
       -           March 2020 - Sept 2020
              
-- ### Research Assistant
-      -  _Department of Electrical Engineering_
-      -      _Osmania Univeristy, India_
+-   **Research Assistant**
+      -  Department of Electrical Engineering
+      -      Osmania Univeristy, India
       -        Jan 2021 - Dec 2021
                
-- ### Bachelor of Engineering
+-   **Bachelor of Engineering**
       - University College of Engineering
       -    Osmania University, India
       -        Aug 2017 - Aug 2021
                 
-- ### Masters in Business Analytics
+-   **Masters in Business Analytics**
       -    University of Colorado
       -      Jan 2022 - Present 
             
