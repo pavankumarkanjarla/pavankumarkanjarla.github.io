@@ -58,8 +58,9 @@ These are the domain where I am passionate to work
 
 - [![Image](https://miro.medium.com/max/700/0*9f5uMrKMjLbzEf7q.png)](https://github.com/pavankumarkanjarla)
 
-                                        Github
-                                    My coding Arena
+                                        - Github
+                                    - My Coding Arena
+                                  
                                     
                                     
 - [![Image](https://thinkdigitalfirst.com/wp-content/uploads/2017/05/linkedin-3157977_1920.jpg)](https://www.linkedin.com/in/pavan-kumar-kanjarla-022293152)
