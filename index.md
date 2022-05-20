@@ -65,7 +65,7 @@ The technical domains where I am passionate to work
                                     
 - [![Image](https://thinkdigitalfirst.com/wp-content/uploads/2017/05/linkedin-3157977_1920.jpg)](https://www.linkedin.com/in/pavan-kumar-kanjarla-022293152)
 
-                                        - LinkedIn
-                                   - My Professional Arena
+                                              - LinkedIn
+                                         - My Professional Arena
 
 
