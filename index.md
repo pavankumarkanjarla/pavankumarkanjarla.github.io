@@ -33,7 +33,7 @@ Reach me out at [Linkedin](https://www.linkedin.com/in/pavan-kumar-kanjarla-0222
       -      Jan 2022 - Present 
             
 ## Areas of Interest
-The technical domain areas where I am passionate to work
+The technical domains where I am passionate to work
 
 - Artificial Intelligence
 - Data Analytics
