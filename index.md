@@ -1,4 +1,4 @@
-## Hello world! My name is
+### Hello world! My name is
 # Pavan Kumar Kanjarla
 
 I am a graduate student at University of Colorado with a goal driven and innovative mindset
@@ -33,7 +33,7 @@ Reach me out at [Linkedin](https://www.linkedin.com/in/pavan-kumar-kanjarla-0222
       -      Jan 2022 - Present 
             
 ## Areas of Interest
-The domain where I am passionate to work
+The technical domain areas where I am passionate to work
 
 - Artificial Intelligence
 - Data Analytics
@@ -44,7 +44,7 @@ The domain where I am passionate to work
 - SQL
 - Tableau
         
-### My Latest Projects
+## My Latest Projects
 
 - Stock Prediction Using the Time series forecasting and Deep Learning.
 - Adaptive Control of Renewable Microgrid using BELBIC.
@@ -54,7 +54,7 @@ The domain where I am passionate to work
 - Conversational AI model for recommending the crop based on the available resources.  
 
 
-### Get in Touch with Me
+## Get in Touch with Me
 
 - [![Image](https://miro.medium.com/max/700/0*9f5uMrKMjLbzEf7q.png)](https://github.com/pavankumarkanjarla)
 
