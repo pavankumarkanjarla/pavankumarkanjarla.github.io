@@ -27,6 +27,22 @@ Reach me out at Linkedin or e-mail
           University College of Engineering
              Osmania University, India
                 Aug 2017 - Aug 2021
+                
+-         **Masters in Business Analytics**
+              University of Colorado
+                Jan 2022 - Present 
+            
+## Areas if Interest
+These are the domain where I am passionate to work
+
+- Artificial Intelligence
+- Data Analytics
+- Computer Vision
+- Conversational AI
+- Machine Learning
+- Deep Learning
+- SQL
+- Tableau
         
 ### Markdown
 
