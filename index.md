@@ -1,5 +1,5 @@
 ## Hello world! My name is
-Pavan Kumar Kanjarla
+# Pavan Kumar Kanjarla
 
 I am a graduate student at University of Colorado with a goal driven and innovative mindset
 passionate towards finding an innovative solutions using the advanced technologies of Artificial Intelligence and Machine Learning.
@@ -12,11 +12,11 @@ Reach me out at [Linkedin](https://www.linkedin.com/in/pavan-kumar-kanjarla-0222
 
 ## My Journey
 
--             **Machine Learning Intern**
-        -  _Information & Technology Department_
-        -       _Government of Telangana_
-        -          Telangana, India
-        -       March 2020 - Sept 2020
+- **Machine Learning Intern**
+    -   _Information & Technology Department_
+    -       _Government of Telangana_
+    -          Telangana, India
+    -       March 2020 - Sept 2020
              
 -              **Research Assistant**
         -  _Department of Electrical Engineering_
