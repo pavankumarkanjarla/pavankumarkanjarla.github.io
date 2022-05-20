@@ -12,12 +12,16 @@ Reach me out at Linkedin or e-mail
 
 ## My Journey
 
-              Machine Learning Intern
+-            ** Machine Learning Intern**
          Information & Technology Department
               Government of Telangana
                 Telangana, India
              March 2020 - Sept 2020
-               
+             
+-           ** Research Assistant**
+        Department of Electrical Engineering
+            Osmania Univeristy, India
+               Jan 2021 - Dec 2021
         
 ### Markdown
 
