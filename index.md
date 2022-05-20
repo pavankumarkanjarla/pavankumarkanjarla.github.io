@@ -12,11 +12,11 @@ Reach me out at [Linkedin](https://www.linkedin.com/in/pavan-kumar-kanjarla-0222
 
 ## My Journey
 
-- **Machine Learning Intern**
+- ### Machine Learning Intern
     -   _Information & Technology Department_
-    -       _Government of Telangana_
-    -          Telangana, India
-    -       March 2020 - Sept 2020
+           _Government of Telangana_
+              Telangana, India
+           March 2020 - Sept 2020
              
 -              **Research Assistant**
         -  _Department of Electrical Engineering_
