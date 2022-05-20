@@ -4,7 +4,7 @@ Pavan Kumar Kanjarla
 I am a graduate student at University of Colorado with a goal driven and innovative mindset
 passionate towards finding an innovative solutions using the advanced technologies of Artificial Intelligence and Machine Learning.
 
-I believe in continuous learning will help to grow each day in the life.
+I believe in _Continuous learning will help to grow each day in the life_.
 
 Do you want to work together? 
 Reach me out at [Linkedin](https://www.linkedin.com/in/pavan-kumar-kanjarla-022293152) or [e-mail](pavankumark.be21@uceou.edu)
